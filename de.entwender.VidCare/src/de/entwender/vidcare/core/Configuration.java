@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Marek Mayer
+ * @author entwender
  */
 public class Configuration
 {

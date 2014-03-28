@@ -2,7 +2,7 @@ package de.entwender.vidcare.core.series;
 
 /**
  *
- * @author Marek Mayer
+ * @author entwender
  */
 public interface ISeason {
 

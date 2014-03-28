@@ -2,7 +2,7 @@ package de.entwender.vidcare.core.movies;
 
 /**
  *
- * @author Marek Mayer
+ * @author entwender
  */
 public class Movie implements IMovie
 {

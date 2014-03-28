@@ -2,7 +2,7 @@ package de.entwender.vidcare.core.connection;
 
 /**
  *
- * @author Marek Mayer
+ * @author entwender
  */
 public class SeriesInfoManager
 {
