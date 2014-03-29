@@ -12,8 +12,4 @@ public class SeriesInfoAccess implements ISeriesInfoAccess
 
     }
 
-    private void connect()
-    {
-
-    }
 }
